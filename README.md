@@ -1,12 +1,13 @@
 # Hello @everyone
 
-- This is mine github account, @glbessa
-- Take a look at some of my repositories
-- If you can collaborate with me or are interested on my help please *contact me*.
+My name is Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute :)
 
-### Contact informations
+If interested on my help please *contact me*.
 
-- email: gabrielleitebessa@gmail.com
+## Contact informations
+
+- [Email](mailto:gabrielleitebessa@gmail.com)
+- [Telegram](https://t.me/glbessa)
 
 <!---
 glbessa/glbessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
