@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-I'm **Gabriel Leite Bessa** and this is my GitHub account, here you can find some of my projects and if you want to contribute feel free to do it.
+I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute.
 
 <div>
     <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
