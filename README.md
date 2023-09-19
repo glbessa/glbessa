@@ -1,14 +1,22 @@
-# Hello @everyone
+## Welcome to my profile
 
-- This is mine github account, @glbessa
-- Take a look at some of my repositories
-- If you can collaborate with me or are interested on my help please *contact me*.
+I'm **Gabriel Leite Bessa** and this is my GitHub account, here you can find some of my projects and if you want to contribute feel free to do it.
 
-### Contact informations
+<div>
+    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
+    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark"/>
+</div>
 
-- email: gabrielleitebessa@gmail.com
+<div aling="center">
+    <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
+    <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
+    <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
 
-<!---
-glbessa/glbessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+<div>
+    <img width="250" height="250" src="assets/aws-certified-cloud-practitioner.png">
+</div>
