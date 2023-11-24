@@ -4,7 +4,7 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 
 <div>
     <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
-    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark"/>
+    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark&hide=jupyter"/>
 </div>
 
 <div aling="center">
