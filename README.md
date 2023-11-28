@@ -9,7 +9,7 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 
 <br>
 
-<div>
+<div align="center">
     <img width="170" height="170" src="assets/aws-certified-cloud-practitioner.png">
 </div>
 
