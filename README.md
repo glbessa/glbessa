@@ -16,6 +16,14 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 <br>
 
 <div align="center">
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
+    <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"/>
+</div>
+
+<br>
+
+<div align="center">
     <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
     <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
