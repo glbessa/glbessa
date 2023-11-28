@@ -18,15 +18,15 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 <br>
 
 <div align="center">
-    <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
-    <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
-    <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
+    <img width="170" height="170" src="assets/aws-certified-cloud-practitioner.png">
 </div>
 
 <br>
 
 <div align="center">
-    <img width="170" height="170" src="assets/aws-certified-cloud-practitioner.png">
+    <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
+    <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
+    <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
+    <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href=""><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
