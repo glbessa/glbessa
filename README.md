@@ -15,7 +15,7 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 
 <br>
 
-<div aling="center">
+<div align="center">
     <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
     <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
     <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
