@@ -2,9 +2,9 @@
 
 I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute.
 
-<div>
-    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
-    <img aling="center" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark&hide=jupyter%20notebook"/>
+<div align="center">
+    <img height="200em" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
+    <img height="200em" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </div>
 
 <br>
