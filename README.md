@@ -38,3 +38,15 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
     <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href=""><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
+
+<br>
+
+<div align="center">
+    <a href="https://github.com/devxb/gitanimals">
+        <img
+          src="https://render.gitanimals.org/farms/glbessa"
+          width="600"
+          height="300"
+        />
+    </a>
+</div>
