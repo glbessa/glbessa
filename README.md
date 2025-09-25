@@ -1,6 +1,23 @@
 ## Welcome to my profile
 
-I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute.
+<style>
+    #skills {
+        display:flex;
+        flex-direction:column;
+        gap:1rem;
+        align-items:center;
+        justify-content: between;
+    }
+
+    #skills > * {
+        display:flex;
+        gap:1.5rem;
+        align-items:center;
+        justify-content: between;
+    }
+</style>
+
+I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute or contact me.
 
 <div align="center" style="margin-bottom: 5rem;">
     <img height="180em" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
@@ -9,8 +26,8 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 
 <br>
 
-<div align="center">
-    <div style="margin-bottom: 2rem">
+<section id="skills">
+    <div>
         <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
         <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
         <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -18,7 +35,6 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
         <img align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
         <img align="center" alt="Oracle Cloud" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
     </div>
-    <br/>
     <div>
         <img align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
         <img align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
