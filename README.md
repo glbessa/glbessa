@@ -10,7 +10,7 @@ I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Feder
 <br>
 
 <section align="center">
-    <div align="center">
+    <div align="center" style="gap:1.5rem;">
         <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
         <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
         <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
