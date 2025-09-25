@@ -1,57 +1,61 @@
-## Welcome to my profile
+## 👋 Welcome to my profile
 
-I'm Gabriel Leite Bessa and I'm actually graduating in Computer Science at Federal University of Pelotas (in portuguese: UFPel) - RS - Brazil. Thanks to visit my github page, feel free to contribute or contact me.
+I'm **Gabriel Leite Bessa**, currently graduating in **Computer Science** at **Federal University of Pelotas (UFPel) - RS - Brazil**.  
+Thanks for visiting my GitHub! Feel free to contribute or contact me. 🚀  
 
-<div align="center" style="margin-bottom: 5rem;">
-    <img height="180em" style="margin:10px;" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
-    <img height="180em" style="margin:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark&hide=jupyter%20notebook"/>
-</div>
+---
 
-<br>
-
-<section align="center">
-    <div align="center">
-        <img style="margin-right: 1.5rem;" align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-        <img style="margin-right: 1.5rem;"  align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
-        <img style="margin-right: 1.5rem;"  align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-        <img style="margin-right: 1.5rem;"  align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-        <img style="margin-right: 1.5rem;"  align="center" alt="AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-        <img style="margin-right: 1.5rem;"  align="center" alt="Oracle Cloud" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
-    </div>
-    <br style="margin-bottom: 3rem;"/>
-    <div align="center">
-        <img style="margin-right: 1.5rem;"  align="center" alt="Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
-        <img style="margin-right: 1.5rem;"  align="center" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
-        <img style="margin-right: 1.5rem;"  align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-        <img style="margin-right: 1.5rem;"  align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    </div>
-</div>
-
-<br>
-
+### 📊 GitHub Stats
 <div align="center">
-    <img width="170" height="170" src="assets/aws-certified-cloud-practitioner.png">
-    <img width="170" height="170" src="assets/aws-certified-ai-practitioner-early-adopter.png">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=glbessa&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glbessa&layout=compact&theme=dark&hide=jupyter%20notebook"/>
 </div>
 
-<br>
+---
 
+### 🛠️ Tech Stack
 <div align="center">
-    <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-%230077B5?style=for-the-badge&logo=github&logoColor=black"></a>
-    <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-%230077B5?style=for-the-badge&logo=githubpages&logoColor=black"></a>
-    <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%230077B5?style=for-the-badge&logo=gmail"></a>
-    <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href=""><img src="https://img.shields.io/badge/-Discord-%230077B5?style=for-the-badge&logo=discord&logoColor=white"></a>
+  
+#### Main
+<img alt="PHP" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+<img alt="Laravel" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/>
+<img alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="JavaScript" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img alt="AWS" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+<img alt="Oracle Cloud" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"/>
+
+#### Others
+<img alt="Rust" height="45" src="https://www.rust-lang.org/logos/rust-logo-128x128.png"/>
+<img alt="C" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img alt="Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+<img alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
 </div>
 
-<br>
+---
 
+### 🎓 Certifications
 <div align="center">
-    <a href="https://github.com/devxb/gitanimals">
-        <img
-          src="https://render.gitanimals.org/farms/glbessa"
-          width="600"
-          height="300"
-        />
-    </a>
+  <img width="150" src="assets/aws-certified-cloud-practitioner.png"/>
+  <img width="150" src="assets/aws-certified-ai-practitioner-early-adopter.png"/>
+</div>
+
+---
+
+### 🌐 Connect with me
+<div align="center">
+  <a href="https://github.com/glbessa"><img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://glbessa.github.io/"><img src="https://img.shields.io/badge/-Website-21759B?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <a href="mailto:gabrielleitebessa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabrielleitebessa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</div>
+
+---
+
+### 🐾 Fun
+<div align="center">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/glbessa" width="600" height="300"/>
+  </a>
 </div>
